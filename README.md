@@ -160,3 +160,7 @@ Please report any issues or feedback to <a href="https://twitter.com/FreeTimeOff
 ### Implemented Architecture
 
 ![TimeOff.Management Screenshot](https://github.com/brayansteven-reyes/timeoff-management-application/blob/09e02fa9364318a9ca8fb5a96a625351cc0f4673/Architecture.png)
+
+- CI/CD GitHub Actions
+- IaC Terraform
+- Registry DockerHub
