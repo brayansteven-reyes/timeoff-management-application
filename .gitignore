@@ -5,3 +5,7 @@
 *.swm
 node_modules/
 *.sqlite
+
+*.terraform*
+terraform.tfstate
+terraform.tfstate.backup

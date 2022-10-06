@@ -157,3 +157,6 @@ Follow instructions on [this page](docs/SessionStoreInRedis.md).
 
 Please report any issues or feedback to <a href="https://twitter.com/FreeTimeOffApp">twitter</a> or Email: pavlo at timeoff.management
 
+### Implemented Architecture
+
+![TimeOff.Management Screenshot](https://github.com/brayansteven-reyes/timeoff-management-application/blob/09e02fa9364318a9ca8fb5a96a625351cc0f4673/Architecture.png)
