@@ -6,7 +6,7 @@ locals {
     ManagedBy   = "Terraform"
   }
   env_name        = "dev"
-  container_image = ":latest"
+  container_image = "registry.hub.docker.com/ingbrayanreyes/timeoff:latest"
 }
 
 
